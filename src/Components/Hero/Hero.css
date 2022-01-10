@@ -1,0 +1,27 @@
+.working-pic{
+    width: 100%;
+}
+
+.hero-text{
+    font-size: 42px;
+    padding: 5px 13px;
+    margin: 0 auto;
+    line-height: 50px;
+}
+
+.hero-description{
+    color: gray;
+    padding: 5px 15px;
+    margin: 0 auto;
+}
+
+.get-started-button{
+    background: hsl(180, 66%, 49%);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 100px;
+    font-weight: 700;
+    margin-top: 10px;
+}
