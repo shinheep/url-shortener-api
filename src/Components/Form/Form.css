@@ -1,0 +1,25 @@
+.form{
+    background: hsl(257, 27%, 26%);
+    width: 350px;
+    margin: 0 auto;
+    height: 80px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.input-text{
+    width: 300px;
+    border-radius: 5px;
+    height: 30px;
+    margin: 5px;
+}
+
+.input-button{
+    width: 300px;
+    background: hsl(180, 66%, 49%);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    font-weight: 900;
+}
