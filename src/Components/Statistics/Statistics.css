@@ -1,0 +1,21 @@
+.statistics-text{
+    color: gray;
+    padding: 5px 15px;
+    margin: 0 auto;
+}
+
+.service-icons{
+    background: hsl(257, 27%, 26%);
+    border-radius: 50px;
+    height: 60px;
+    padding: 10px;
+}
+
+img {
+    height: 5px;
+}
+
+.service-text{
+    border: 1px solid gray;
+    height: 250px;
+}
