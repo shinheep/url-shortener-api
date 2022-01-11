@@ -25,6 +25,7 @@ const Statistics = () => {
                     <img className="service-icons" src="images/icon-detailed-records.svg" alt=""/> <br></br>
 
                     <div className="service-text">
+                        
                         <h3>Detailed Records</h3>
 
                         <div className="detailed-records">
