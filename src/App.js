@@ -1,4 +1,5 @@
 import './App.css';
+import Boost from './Components/Boost/Boost';
 import Form from './Components/Form/Form';
 import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       <Form/>
       <Statistics/>
+      <Boost/>
     </div>
   );
 }
