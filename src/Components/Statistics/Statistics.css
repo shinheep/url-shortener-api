@@ -1,5 +1,14 @@
+.statistics{
+    background: hsl(0, 2%, 90%);
+    padding: 20px;
+}
+
+.advancedStatistics{
+    padding: 10px;
+}
+
 .statistics-text{
-    color: gray;
+    color: rgb(110, 110, 110);
     padding: 5px 15px;
     margin: 0 auto;
 }
@@ -12,7 +21,7 @@
 }
 
 .service-text{
-    border: 1px solid gray;
+    background: white;
     height: 250px;
     width: 400px;
     margin: 0 auto;

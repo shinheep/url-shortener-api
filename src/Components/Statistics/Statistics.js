@@ -4,8 +4,10 @@ const Statistics = () => {
     return (
         <div className="statistics">
             
-            <h2 className="statistics-title">Advanced Statistics</h2>
-            <p className="statistics-text">Track how your links are performing across the web with our advanced statistics dashboard.</p>
+            <div className="advancedStatistics">
+                <h2 className="statistics-title">Advanced Statistics</h2>
+                <p className="statistics-text">Track how your links are performing across the web with our advanced statistics dashboard.</p>
+            </div>
 
             <div className="services-container">
                 
