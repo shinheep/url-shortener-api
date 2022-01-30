@@ -1,0 +1,16 @@
+.footer{
+    background: hsl(260, 8%, 14%);
+    color: white;
+    min-height: 100%;
+    padding: 20px;;
+}
+
+.section {
+    line-height: 20px;
+    margin: 30px;
+    font-size: 15px;
+}
+
+.socialIcons{
+    padding: 10px;
+}
