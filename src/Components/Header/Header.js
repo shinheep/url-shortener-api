@@ -17,11 +17,12 @@ const Header = () => {
     return (
         <div className="header">
             
-            {isOpen && <Menu/>}
             <header>
                 <img src="images/logo.svg" alt=""/>
                 <i onClick={() => setIsOpen(!isOpen)} className="hamburger fas fa-bars"></i>
             </header>
+
+            {isOpen && <Menu/>}
         </div>
     );
 };
